@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://ccono4wr65l07"]
+
+[ext_resource type="Texture2D" uid="uid://c33wplvlhbpd" path="res://images/698affd5-5ff5-4fad-95a0-cac1b646b476.jpg" id="1_fenyb"]
+
+[node name="shootingGame" type="Node2D" unique_id=722447198]
+
+[node name="698Affd55Ff54Fad95a0Cac1b646b476" type="Sprite2D" parent="." unique_id=1948075793]
+position = Vector2(583, 310)
+texture = ExtResource("1_fenyb")

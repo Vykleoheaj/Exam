@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://bbbf2lhkdxe6q"]
+
+[node name="Node2D" type="Node2D" unique_id=789571949]
+
+[node name="Label" type="Label" parent="." unique_id=2025616564]
+offset_left = 303.0
+offset_top = 102.0
+offset_right = 880.0
+offset_bottom = 165.0
+text = "A really amazing game"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Button" type="Button" parent="." unique_id=2120413867]
+offset_left = 498.0
+offset_top = 188.0
+offset_right = 684.0
+offset_bottom = 219.0
+action_mode = 0
+text = "A great Shooting Game"
